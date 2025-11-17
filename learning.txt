@@ -1,0 +1,5 @@
+Something i learned today
+1. Making Edit to a repository locally
+2. Adding and commiting changes to the main branch
+3. Pushing changes to the GitHub repository
+
